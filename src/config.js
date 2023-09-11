@@ -1,38 +1,30 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Lázaro Nascimento',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Lázaro Nascimento is a senior full stack engineer, who is proficient in blockchain and AI.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Lázaro Nascimento, Lazaro, Nascimento, lazarostar, blockchain, ai, crypto, defi, web3, fullstack, Brazil',
+  siteUrl: 'https://lazarostar.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Lázaro Nascimento',
+  location: 'Natal, RN, Brazil',
+  email: 'nascimento.dev26@gmail.com',
+  github: 'https://github.com/lazarostar',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/lazarostar',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/lazarostar/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
+      name: 'ProductHunt',
+      url: 'https://www.producthunt.com/@lazarostar/',
     },
   ],
 

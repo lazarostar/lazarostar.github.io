@@ -114,6 +114,7 @@ const StyledFeaturedImg = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
   filter: grayscale(100%) contrast(1) brightness(90%);
+  transition: ${theme.transition};
   ${media.tablet`
     object-fit: cover;
     width: auto;
@@ -137,10 +138,8 @@ const StyledImgContainer = styled.a`
   `};
   &:hover,
   &:focus {
-    background: transparent;
     &:before,
     ${StyledFeaturedImg} {
-      background: transparent;
       filter: none;
     }
   }
@@ -216,7 +215,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Projects</Heading>
 
       <div>
         {featuredProjects &&

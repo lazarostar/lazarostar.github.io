@@ -8,7 +8,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   text-align: center;
-  max-width: 600px;
+  max-width: 620px;
   margin: 0 auto 100px;
   a {
     ${mixins.inlineLink};
